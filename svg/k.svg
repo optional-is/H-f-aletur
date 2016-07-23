@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="262.163px" height="369.727px" viewBox="0 0 262.163 369.727" enable-background="new 0 0 262.163 369.727"
+	 xml:space="preserve">
+<g>
+	<polygon fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="0.082,88.556 0.082,0.906 104.541,0.906 	
+		"/>
+	<g>
+		<polygon fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" points="24.477,140.457 124.227,56.755 
+			124.227,231.303 24.477,315.004 		"/>
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="43.519" y1="124.927" x2="43.519" y2="158.253"/>
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="63.602" y1="108.264" x2="63.602" y2="141.589"/>
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="83.102" y1="91.601" x2="83.102" y2="124.927"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="103.185" y1="74.939" x2="103.185" y2="108.264"/>
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="43.519" y1="266.647" x2="43.519" y2="299.973"/>
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="63.602" y1="249.984" x2="63.602" y2="283.31"/>
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="83.102" y1="233.322" x2="83.102" y2="266.647"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="103.185" y1="216.658" x2="103.185" y2="249.984"/>
+	</g>
+	<g>
+		
+			<rect x="164.97" y="157.953" transform="matrix(0.7071 0.7071 -0.7071 0.7071 186.3422 -81.2965)" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="52.668" height="52.667"/>
+		<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="191.187" cy="183.933" r="15.9"/>
+	</g>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M262.28,65.081V0.738h-113.72L0.082,125.326
+		L0,368.988l128.227-0.012v-60.004h35.908v60l98.028-0.01v-64.342H191.42v-49.477c39.08-0.063,70.743-31.761,70.743-70.856
+		c0-39.097-31.663-70.794-70.743-70.857v-48.35H262.28z"/>
+</g>
+</svg>
